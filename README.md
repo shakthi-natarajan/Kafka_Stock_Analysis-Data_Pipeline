@@ -17,6 +17,6 @@ The data used in this project is Stock_Market_Data_Realtime-Simulation.csv
 
 ## Architecture:
 
-<img src=’Kafka-DE-project-Architecture.jpg’>
+<img src="Kafka-DE-project-Architecture.jpg">
 
 
